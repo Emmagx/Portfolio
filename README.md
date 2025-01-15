@@ -48,7 +48,7 @@ Repositorio donde coloco mis ejercicios y notas sobre cursos varios, python, jav
   - Proyectos iniciados que pueden ser utiles(Cajero Automatico (ATM) en terminal como practica).
   - Instructivos para crear herramientas usadas en el hacking.
 
-### Proyecto 5: Gestor de inventario(Analisis Lexico y Sintactico en Fortran, interfaz en python)
+### Proyecto 5: Gestor de inventario(Analisis Lexico y Sintactico en Fortran, interfaz en python)([(https://github.com/Emmagx/LFP-2S24Proyectos_202300848/tree/main/Proyecto2%20v2)])
 Programa en Fortran que permita gestionar un inventario y registrar los movimientos de equipos de oficina utilizando archivos de texto.
 
 - **Tecnologías usadas**: Python, Fortran.
@@ -67,7 +67,7 @@ Herramienta que lee un archivo XML el cual puede contener los mensajes/comentari
   - uso del protocolo HTTP.
 
 
-### Scripting (https://github.com/Emmagx/Scripts)([(https://github.com/Emmagx/LFP-2S24Proyectos_202300848/tree/main/Proyecto2%20v2)])
+### Scripting (https://github.com/Emmagx/Scripts)
 Recursos para reconfigurar algunas tecnologias y uso de ellas en bash (linux).
 
 - **Tecnologías usadas**: Bash.

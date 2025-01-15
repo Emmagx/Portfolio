@@ -53,18 +53,18 @@ Programa en Fortran que permita gestionar un inventario y registrar los movimien
 
 - **Tecnologías usadas**: Python, Fortran.
 - **Características principales**:
-- Analizador lexico creado a partir de un automata.
-- Analizador Sintactico creado a partir de un automata.
-- Bases bien definidas sobre token aceptados.
+  - Analizador lexico creado a partir de un automata.
+  - Analizador Sintactico creado a partir de un automata.
+  - Bases bien definidas sobre token aceptados.
 
 ### Proyecto 6: Herramienta analizadora de redes sociales([https://github.com/Emmagx/IPC2_Proyecto3_202300848.git])
 Herramienta que lee un archivo XML el cual puede contener los mensajes/comentarios de redes sociales sobre multiples empresas y trabaja en analizar palabras clave para clasificar el tipo de comentario(positivo, negativo, neutro)
 
 - **Tecnologías usadas**: Python, Django, Flask.
 - **Características principales**:
-- Interfaz Web realizada con flask
-- Backend realizado con Django.
-- uso del protocolo HTTP.
+  - Interfaz Web realizada con flask
+  - Backend realizado con Django.
+  - uso del protocolo HTTP.
 
 
 ### Scripting (https://github.com/Emmagx/Scripts)([(https://github.com/Emmagx/LFP-2S24Proyectos_202300848/tree/main/Proyecto2%20v2)])

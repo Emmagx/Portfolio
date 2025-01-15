@@ -15,15 +15,17 @@ Se realizo un dispositivo con diferentes sensores de gases nocivos, temperatura 
   - Uso de sensores MQ con diferentes metodos de calibracion
   - Almacen de datos en la nube.
 
-### Proyecto 2: Red Social Basica(https://github.com/Emmagx/IPC1_Proyecto2_202300848)
+### Proyecto 2: Red Social Basica([https://github.com/SAMUS206/Practica_4])
 
 Red Social llamada USocial, con una base de datos que almacena likes, comentarios, con panel de administrador y panel de usuarios por separado.
 
 - **Tecnologías usadas**: React, Node.js, Bootstrap, CSS.
 - **Características principales**:
-  - Creacion de base de datos local en Node.js
+  - Creacion de base de datos local en SQL y Node.js para la comunicacion entre base de datos y api.
   - Verificacion de login
   - Verificaciones desde api/backend no desde el frontend para mejorar la seguridad.
+  - Encriptacion de contraseñas.
+  - Imagenes almacenadas en base64
  
 ### Proyecto 3: Interfaz Medica (https://github.com/Emmagx/IPC1_Proyecto1_202300848)
 
@@ -34,6 +36,7 @@ Interfaz Grafica hecha con Java Swing para una plataforma de médicos con panel 
   - Creacion de base de datos Temporal
   - Verificacion de login.
   - Verificaciones desde Frontend.
+
  
 ### Proyecto 4: Notas de Cursos tomados (https://github.com/Emmagx/Usac)
 
@@ -44,8 +47,27 @@ Repositorio donde coloco mis ejercicios y notas sobre cursos varios, python, jav
   - Notas personales y digeridas para otras personas.
   - Proyectos iniciados que pueden ser utiles(Cajero Automatico (ATM) en terminal como practica).
   - Instructivos para crear herramientas usadas en el hacking.
- 
-### Scripting (https://github.com/Emmagx/Scripts)
+
+### Proyecto 5: Gestor de inventario(Analisis Lexico y Sintactico en Fortran, interfaz en python)
+Programa en Fortran que permita gestionar un inventario y registrar los movimientos de equipos de oficina utilizando archivos de texto.
+
+- **Tecnologías usadas**: Python, Fortran.
+- **Características principales**:
+- Analizador lexico creado a partir de un automata.
+- Analizador Sintactico creado a partir de un automata.
+- Bases bien definidas sobre token aceptados.
+
+### Proyecto 6: Herramienta analizadora de redes sociales([https://github.com/Emmagx/IPC2_Proyecto3_202300848.git])
+Herramienta que lee un archivo XML el cual puede contener los mensajes/comentarios de redes sociales sobre multiples empresas y trabaja en analizar palabras clave para clasificar el tipo de comentario(positivo, negativo, neutro)
+
+- **Tecnologías usadas**: Python, Django, Flask.
+- **Características principales**:
+- Interfaz Web realizada con flask
+- Backend realizado con Django.
+- uso del protocolo HTTP.
+
+
+### Scripting (https://github.com/Emmagx/Scripts)([(https://github.com/Emmagx/LFP-2S24Proyectos_202300848/tree/main/Proyecto2%20v2)])
 Recursos para reconfigurar algunas tecnologias y uso de ellas en bash (linux).
 
 - **Tecnologías usadas**: Bash.
